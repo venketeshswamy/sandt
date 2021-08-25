@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Swamy and Thomas	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://sandt.org/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sandt.org/</link>
 	<description>Engineers and Contractors</description>
 	<lastBuildDate>Wed, 25 Aug 2021 14:02:03 +0000</lastBuildDate>
 	<sy:updatePeriod>
