@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for Swamy and Thomas	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://static.sandt.org/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://static.sandt.org/</link>
 	<description>Engineers and Contractors</description>
-	<lastBuildDate>Wed, 27 Oct 2021 13:39:54 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 31 Oct 2021 12:12:49 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,14 +19,3 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>
-
-<!--
-Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
-
-Object Caching 21/38 objects using disk
-Page Caching using disk: enhanced (Page is feed) 
-Lazy Loading (feed)
-Database Caching 9/62 queries in 0.029 seconds using disk
-
-Served from: _ @ 2021-10-31 13:10:58 by W3 Total Cache
--->
