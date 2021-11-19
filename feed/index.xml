@@ -12,13 +12,13 @@
 	<atom:link href="https://static.sandt.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://static.sandt.org/</link>
 	<description>Engineers and Contractors</description>
-	<lastBuildDate>Sun, 31 Oct 2021 12:12:49 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Nov 2021 10:54:08 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
 	<url>https://static.sandt.org/wp-content/uploads/SandT_Logo.svg</url>
