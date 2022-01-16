@@ -12,20 +12,12 @@
 	<atom:link href="https://static.sandt.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://static.sandt.org/</link>
 	<description>Engineers and Contractors</description>
-	<lastBuildDate>Sun, 28 Nov 2021 17:46:36 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Jan 2022 11:48:39 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
-
-<image>
-	<url>https://static.sandt.org/wp-content/uploads/SandT_Logo.svg</url>
-	<title>Swamy and Thomas</title>
-	<link>https://static.sandt.org/</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 </channel>
 </rss>

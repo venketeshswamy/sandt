@@ -11,11 +11,11 @@
 	<atom:link href="https://static.sandt.org/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://static.sandt.org/</link>
 	<description>Engineers and Contractors</description>
-	<lastBuildDate>Sun, 28 Nov 2021 17:46:36 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Jan 2022 11:48:39 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 </channel>
 </rss>
